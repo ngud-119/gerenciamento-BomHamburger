@@ -1,6 +1,4 @@
-# bomhamburguer
-
-A new Flutter project.
+# Bom Hamburguer
 
 ## Getting Started
 
